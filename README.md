@@ -1,6 +1,4 @@
-Here's a polished and paraphrased version of your README content that improves clarity, grammar, and flow while preserving the original meaning:
 
----
 
 # Customer Segmentation
 
@@ -31,7 +29,7 @@ One of the most commonly used segmentation techniques is **RFM analysis**, which
 
 RFM analysis helps businesses identify their most valuable customers and create personalized offers to increase customer loyalty and revenue.
 
----
+
 
 ## Technologies
 
